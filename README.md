@@ -1,0 +1,1 @@
+Hello Github, ini adaalah repository pertama saya.
